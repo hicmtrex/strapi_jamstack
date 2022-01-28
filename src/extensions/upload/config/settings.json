@@ -1,8 +1,0 @@
-{
-  "provider": "cloudinary",
-  "providerOptions": {
-    "cloud_name": "hicm",
-    "api_key": "125988454492677",
-    "api_secret": "b3-PrfsTpUd3KfFN0yEPpwg61L4"
-  }
-}
