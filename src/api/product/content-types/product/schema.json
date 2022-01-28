@@ -31,14 +31,9 @@
         "images"
       ]
     },
-    "image": {
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos"
-      ],
-      "type": "media",
-      "multiple": false
+    "category": {
+      "type": "string",
+      "required": true
     }
   }
 }
