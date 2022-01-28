@@ -15,7 +15,8 @@
     "@strapi/strapi": "4.0.5",
     "pg": "^8.7.1",
     "pg-connection-string": "^2.5.0",
-    "sqlite3": "5.0.2"
+    "sqlite3": "5.0.2",
+    "strapi-provider-upload-cloudinary": "^3.6.8"
   },
   "author": {
     "name": "A Strapi developer"
