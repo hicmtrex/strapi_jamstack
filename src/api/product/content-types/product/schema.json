@@ -23,16 +23,12 @@
       "type": "richtext",
       "required": true
     },
-    "images": {
-      "type": "media",
-      "multiple": true,
-      "required": false,
-      "allowedTypes": [
-        "images"
-      ]
-    },
     "category": {
       "type": "string",
+      "required": true
+    },
+    "images": {
+      "type": "json",
       "required": true
     }
   }
