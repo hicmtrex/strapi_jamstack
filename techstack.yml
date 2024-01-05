@@ -2,7 +2,7 @@ repo_name: hicmtrex/strapi_jamstack
 report_id: 6921b08bd5d2ee333228f7cb28717fe9
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:31:57+00:00'
+timestamp: '2024-01-05T08:17:01+00:00'
 requested_by: invalid-email-address
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/hicmtrex/strapi_jamstack
   detection_source: Repo Metadata
 - name: PostgreSQL
   description: A powerful, open source object-relational database system
@@ -26,6 +27,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/hicmtrex/strapi_jamstack/blob/main/package.json
   detection_source: package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-01-27 02:17:24.000000000 Z
@@ -38,6 +40,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/hicmtrex/strapi_jamstack/blob/main/package.json
   detection_source: package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-01-27 02:17:24.000000000 Z
@@ -50,6 +53,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/hicmtrex/strapi_jamstack/blob/main/.eslintrc
   detection_source: ".eslintrc"
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-01-27 02:17:24.000000000 Z
@@ -61,6 +65,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hicmtrex/strapi_jamstack
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -70,6 +75,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/hicmtrex/strapi_jamstack/blob/main/package.json
   detection_source: package.json
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-01-27 02:17:24.000000000 Z
@@ -81,6 +87,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/hicmtrex/strapi_jamstack/blob/main/public/robots.txt
   detection_source: public/robots.txt
   last_updated_by: Firstname Lastname
   last_updated_on: 2022-01-27 02:17:24.000000000 Z
